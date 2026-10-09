@@ -21,14 +21,15 @@ Welcome to my GitHub profile! I'm a BSIT student who loves building software pro
 
 <div align="center">
   <a href="https://github.com/J8zie">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=J8zie&amp;show_icons=true&amp;theme=transparent" alt="J8zie's GitHub stats" />
+      <img src="https://raw.githubusercontent.com/J8zie/J8zie/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=default&locale=en&hide_border=true&order=1&custom_title=Status" height="150" alt="stats graph"  />
+
   </a>
   <a href="https://github.com/J8zie">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J8zie&amp;layout=compact&amp;langs_count=6&amp;card_width=320&amp;theme=transparent" alt="J8zie's top languages" />
+     <img src="https://raw.githubusercontent.com/J8zie/J8zie/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="150" alt="languages graph"  />
   </a>
   <br />
   <a href="https://github.com/J8zie">
-    <img height="200" src="https://streak-stats.demolab.com/?user=J8zie&amp;theme=dark&amp;hide_border=true" alt="J8zie's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=J8zie&locale=en&mode=weekly&theme=default&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j&order=3" height="150" alt="streak graph"  />
   </a>
 </div>
 
