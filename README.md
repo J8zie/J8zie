@@ -10,7 +10,8 @@ Welcome to my GitHub profile! I'm a BSIT student who loves building software pro
 
 ### Currently Building
 
-[**KalinIS**](https://github.com/J8zie/KalinIS)
+
+[![KalinIS](https://img.shields.io/badge/Currently_Building-KalinIS-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J8zie/KalinIS)
 
 ## Tech Stack
 
