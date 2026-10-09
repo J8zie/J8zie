@@ -17,6 +17,18 @@ Welcome to my GitHub profile! I'm a BSIT student who loves building software pro
 
 ![C++, Java, Python, MySQL, SQLite, HTML, CSS, and JavaScript](https://skillicons.dev/icons?i=cpp,java,py,mysql,sqlite,html,css,js&perline=8)
 
+## GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/J8zie">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=J8zie&amp;show_icons=true&amp;theme=transparent" alt="J8zie's GitHub stats" />
+  </a>
+  <a href="https://github.com/J8zie">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J8zie&amp;layout=compact&amp;langs_count=6&amp;card_width=320&amp;theme=transparent" alt="J8zie's top languages" />
+  </a>
+</div>
+
+
 ## Goals
 
 - Improve my software development skills
