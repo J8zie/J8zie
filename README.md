@@ -1,10 +1,10 @@
 # **Hi There ,Im J8zie**
 
-A BSIT Student Who love building and learning software projects
+Welcome to My Github profile! Im A BSIT Student Who love building and learning software projects
 
 ## **ABOUT ME**
 
-### CURRENTLY LEARNING
+- CURRENTLY LEARNING
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -12,7 +12,7 @@ A BSIT Student Who love building and learning software projects
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
-### CURRENTLY BUILDING
+- CURRENTLY BUILDING
 
 [![KalinIS](https://img.shields.io/badge/Currently_Building-KalinIS-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J8zie/KalinIS)
 
@@ -28,6 +28,10 @@ A BSIT Student Who love building and learning software projects
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+## **GOAL**
+- IMPROVE MY LEARNING OF SOFTWARE
+- LEARN GAME DEVELOPMENT
+- MAKE A SIMPLE PROJECTS
 
 <!--
 **J8zie/J8zie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
