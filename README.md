@@ -17,7 +17,16 @@ Welcome to my GitHub profile! I'm a BSIT student who loves building software pro
 
 ![C++, Java, Python, MySQL, SQLite, HTML, CSS, and JavaScript](https://skillicons.dev/icons?i=cpp,java,py,mysql,sqlite,html,css,js&perline=8)
 
-## GitHub Stats
+
+
+
+## Goals
+
+- Improve my software development skills
+- Learn game development
+- Build useful projects and keep learning
+
+---
 
 <div align="center">
   <a href="https://github.com/J8zie">
@@ -31,12 +40,6 @@ Welcome to my GitHub profile! I'm a BSIT student who loves building software pro
     <img width="98%" src="https://streak-stats.demolab.com/?user=J8zie&amp;locale=en&amp;mode=weekly&amp;theme=default&amp;hide_border=true&amp;border_radius=5&amp;background=FFFEFE&amp;ring=FB8C00&amp;fire=FB8C00&amp;currStreakLabel=FB8C00&amp;card_width=1000" alt="GitHub streak" />
   </a>
 </div>
-
-## Goals
-
-- Improve my software development skills
-- Learn game development
-- Build useful projects and keep learning
 
 <!--
 **J8zie/J8zie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
