@@ -2,7 +2,6 @@
 
 A BSIT Student Who love building and learning software projects
 
----
 ## **ABOUT ME**
 
 ### CURRENTLY LEARNING
@@ -17,7 +16,6 @@ A BSIT Student Who love building and learning software projects
 
 [![KalinIS](https://img.shields.io/badge/Currently_Building-KalinIS-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J8zie/KalinIS)
 
----
 
 ## **TECH STACK**
 
