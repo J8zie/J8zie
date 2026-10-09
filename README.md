@@ -26,27 +26,7 @@ Welcome to my GitHub profile! I'm a BSIT student who loves building software pro
 - Learn game development
 - Build useful projects and keep learning
 
----
-
-<div align="center">
-  <a href="https://github.com/J8zie">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=J8zie&amp;card_width=500&amp;show_icons=true&amp;hide_rank=true&amp;include_all_commits=true&amp;theme=default&amp;bg_color=FFFEFE&amp;title_color=FB8C00&amp;text_color=151515&amp;icon_color=FB8C00&amp;hide_border=true&amp;border_radius=5" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/J8zie">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J8zie&amp;layout=compact&amp;langs_count=5&amp;card_width=500&amp;theme=default&amp;bg_color=FFFEFE&amp;title_color=FB8C00&amp;text_color=151515&amp;hide_border=true&amp;border_radius=5" alt="Top languages" />
-  </a>
-  <br />
-  <a href="https://github.com/J8zie">
-    <img width="98%" src="https://streak-stats.demolab.com/?user=J8zie&amp;locale=en&amp;mode=weekly&amp;theme=default&amp;hide_border=true&amp;border_radius=5&amp;background=FFFEFE&amp;ring=FB8C00&amp;fire=FB8C00&amp;currStreakLabel=FB8C00&amp;card_width=1000" alt="GitHub streak" />
-  </a>
-</div>
-
-##SOCIAL MEDIA
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=J8zie.J8zie&right_color=limegreen"  />
-</div>
-
+## SOCIAL MEDIA
 
 <br clear="both">
 
@@ -67,6 +47,27 @@ Welcome to my GitHub profile! I'm a BSIT student who loves building software pro
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
+
+
+---
+
+<div align="center">
+  <a href="https://github.com/J8zie">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=J8zie&amp;card_width=500&amp;show_icons=true&amp;hide_rank=true&amp;include_all_commits=true&amp;theme=default&amp;bg_color=FFFEFE&amp;title_color=FB8C00&amp;text_color=151515&amp;icon_color=FB8C00&amp;hide_border=true&amp;border_radius=5" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/J8zie">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J8zie&amp;layout=compact&amp;langs_count=5&amp;card_width=500&amp;theme=default&amp;bg_color=FFFEFE&amp;title_color=FB8C00&amp;text_color=151515&amp;hide_border=true&amp;border_radius=5" alt="Top languages" />
+  </a>
+  <br />
+  <a href="https://github.com/J8zie">
+    <img width="98%" src="https://streak-stats.demolab.com/?user=J8zie&amp;locale=en&amp;mode=weekly&amp;theme=default&amp;hide_border=true&amp;border_radius=5&amp;background=FFFEFE&amp;ring=FB8C00&amp;fire=FB8C00&amp;currStreakLabel=FB8C00&amp;card_width=1000" alt="GitHub streak" />
+  </a>
+</div>
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=J8zie.J8zie&right_color=limegreen"  />
+</div>
+
 
 
 <!--
