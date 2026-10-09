@@ -26,8 +26,11 @@ Welcome to my GitHub profile! I'm a BSIT student who loves building software pro
   <a href="https://github.com/J8zie">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J8zie&amp;layout=compact&amp;langs_count=6&amp;card_width=320&amp;theme=transparent" alt="J8zie's top languages" />
   </a>
+  <br />
+  <a href="https://github.com/J8zie">
+    <img height="200" src="https://streak-stats.demolab.com/?user=J8zie&amp;theme=dark&amp;hide_border=true" alt="J8zie's GitHub streak" />
+  </a>
 </div>
-
 
 ## Goals
 
