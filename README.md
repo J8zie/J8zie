@@ -41,9 +41,33 @@ Welcome to my GitHub profile! I'm a BSIT student who loves building software pro
   </a>
 </div>
 
+##SOCIAL MEDIA
+
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=J8zie.J8zie&right_color=limegreen"  />
 </div>
+
+
+<br clear="both">
+
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/jay-ampong-jeightz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/JayAmpong123" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/jeeightzie/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=jay.espadon.ampong%40gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://x.com/J8zie" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
 
 <!--
 **J8zie/J8zie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
