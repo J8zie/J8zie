@@ -41,6 +41,10 @@ Welcome to my GitHub profile! I'm a BSIT student who loves building software pro
   </a>
 </div>
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=J8zie.J8zie&right_color=limegreen"  />
+</div>
+
 <!--
 **J8zie/J8zie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
