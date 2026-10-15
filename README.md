@@ -13,6 +13,8 @@ Welcome to my GitHub profile! I'm a BSIT student who loves building software pro
 
 [![KalinIS](https://img.shields.io/badge/Currently_Building-KalinIS-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J8zie/KalinIS)
 
+[![SignSpell](https://img.shields.io/badge/Currently_Building-SignSpell-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J8zie/SignSpell)
+
 ## Tech Stack
 
 ![C++, Java, Python, MySQL, SQLite, HTML, CSS, and JavaScript](https://skillicons.dev/icons?i=cpp,java,py,mysql,sqlite,html,css,js&perline=8)
