@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a BSIT student who loves building software pro
 ### Currently Building
 
 
-[![KalinIS](https://img.shields.io/badge/Currently_Building-KalinIS-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J8zie/KalinIS)
+[![Actify](https://img.shields.io/badge/Currently_Building-Actify-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J8zie/KalinIS)
 
 [![SignSpell](https://img.shields.io/badge/Currently_Building-SignSpell-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J8zie/SignSpell)
 
