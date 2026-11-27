@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a BSIT student who loves building software pro
 ![Laravel, Angular, PostgreSQL, and Tailwind CSS](https://skillicons.dev/icons?i=laravel,angular,postgres,tailwind&perline=4)
 
 ### Currently Building
-
+[![Portfolio](https://img.shields.io/badge/Currently_Building-Actify-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J8zie/Portfolio)
 
 ## Tech Stack
 
